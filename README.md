@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shingieuihos
 - 👀 I’m interested in all things IT. 
 - 🌱 I’m currently learning AWS cloud Computing 
-- 💞️ I’m looking to collaborate on AWS cloud computing projects 
+- 💞️ I’m looking to collaborate on AWS Cloud computing projects 
   
 
 <!---
