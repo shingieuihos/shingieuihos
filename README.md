@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shingieuihos
-- 👀 I’m interested in all things IT. 
-- 🌱 I’m currently learning AWS cloud Computing SysOps and ai focusing more on infrastructure as code with terraform.
-- 🥳 I’m looking to collaborate on AWS Cloud computing projects, learn more and grow in cloud computing iac and ai.
+- 👀 I’m interested in cloud computing, programming, ai and all things IT. 
+- 🌱 I’m currently learning AWS cloud Computing, programming and ai.
+- 🥳 I’m looking to collaborate on AWS Cloud computing projects, programming, ai to learn more and grow in cloud computing iac, programming and ai.
 
 - Thank you for popping by. 🫡
 
