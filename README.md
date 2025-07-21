@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Shingi Mudyirwa; @shingieuihos
-- 👀 I’m interested in cloud computing, programming, ai and all things IT. 
-- 🌱 I’m currently learning AWS cloud Computing, programming and ai.
-- 🥳 I’m looking to collaborate on AWS Cloud computing projects, ai to learn more and grow in cloud computing iac, programming and ai.
+- 👋 Hi, I’m Shingi Mudyirwa; 
+- 👀 I’m currently going through some certification training in AWS Cloud Computing, Kubernetes, Docker. A bit of python, terraform for IAC and everything in between.
+- 🥳 I’m looking to collaborate on AWS Cloud computing projects, to learn more and grow in cloud computing, kubernetes and things cloud native.
 
-- Thank you for popping by. 🫡
+- Thank you for popping by.
 
-- Contact me: smudyirwa@gmail.com; shingi@whatthewordsays.org; @shingieuihos on my socials and you'll find me.  
+- Contact me: email@shingimudyirwa.click; smudyirwa@gmail.com; shingi@whatthewordsays.org; on my socials and you'll find me.  
   
 
 <!---
