@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shingi Mudyirwa; 
 - 👀 I’m currently going through some certification training in AWS Cloud Computing, Kubernetes, Docker. A bit of python, terraform for IAC and everything in between.
-- 🥳 Check out the technologies I'm learning in the AWS, Kubernetes & Linux repos
+- 🥳 Check out the technologies I'm learning in the Learning-AWS, Learning-Kubernetes & Learning-Linux repos
 - 🥳 I’m looking to collaborate on AWS Cloud computing projects, to learn more and grow in cloud computing, kubernetes, Linux and all things cloud native.
 
 - Thank you for popping by.
