@@ -5,7 +5,7 @@
 
 - Thank you for popping by.
 
-- Contact me:  shingi@whatthewordsays.org; email@shingimudyirwa.click; smudyirwa@gmail.com; on my socials and you'll find me.  
+- Contact me:  shingi@whatthewordsays.org; or DM me on LinkedIn and you'll find me.  
   
 <!---
 shingieuihos/shingieuihos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
